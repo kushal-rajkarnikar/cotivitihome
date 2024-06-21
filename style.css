@@ -45,7 +45,6 @@ header nav {
   margin-right: auto;
 }
 
-
 h1 {
   color: white;
 }
@@ -80,4 +79,23 @@ h1 {
   background-size: 60% auto;
   padding-top: 100px;
   padding-bottom: 100px;
+}
+
+.w50 {
+  width: 50%;
+}
+
+section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.w50 p {
+  margin-bottom: 15px;
+}
+
+#about {
+  background-image: url(building.png);
+  background-repeat: no-repeat;
+  background-position: center right;
 }
